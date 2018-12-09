@@ -1,1 +1,6 @@
 Hello people this is just test
+
+myfile= open("nafoosa.txt","w")
+myfile.write("Sanhory")
+myfile.close()
+
